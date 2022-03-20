@@ -55,6 +55,7 @@ button{
   color: white;
   background-color: rgba(56, 19, 19, 0.658);
   padding: 8px;
+  border: 2px solid rgb(56, 19, 19);
   border-radius: 8px;
 }
 h1{
